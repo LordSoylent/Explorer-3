@@ -101,8 +101,9 @@ Iquidus Explorer is intended to be generic so it can be used with any wallet fol
 
 ### Donate
 
-    BTC: 168hdKA3fkccPtkxnX8hBrsxNubvk4udJi
-    JBS: JZp9893FMmrm1681bDuJBU7c6w11kyEY7D
+    BTC: 1AWYXN8dib9Q1LmJKBXWh4VQi5xf6o15zK
+    HTH: HQspVfviRbLm28eU2itiQXyttad7nWFnvw 
+    XBI: BLBfBPwY4ztY4GCmRS2cNWvqkc9djeSvjN
 
 ### Known Issues
 
