@@ -267,7 +267,7 @@ router.get('/coininfo', function(req, res) {
               supply: formatNum(stats.supply, { maxFraction: 4 }),
               coinsLocked: formatNum(coinsLocked, { maxFraction: 8 }),
               coinsLockedPerc: formatNum(coinsLockedPerc, { maxFraction: 2 }),
-              mnRequiredCoins: settings.coininfo.masternode_required,
+              mnRequiredCoins: formatNum(settings.coininfo.masternode_required, {maxFraction: 2 }),
               nodeWorthBtc: formatCurrency(nodeWorthBtc, { maxFraction: 8 }),
               nodeWorthUsd: nodeWorthUsd ? formatCurrency(nodeWorthUsd, { maxFraction: 2 }) : null,
               dailyCoin: dailyCoin,
