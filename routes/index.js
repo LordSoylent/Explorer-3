@@ -120,8 +120,7 @@ function route_get_address(res, hash, count) {
         // hack to support numbers longer than 15 digits.
         var balance = new BigInteger(address.balance);
         var viewBalance = balance.divide(100000000);
-        var balanceRemain = new BigNumber(balance.toString().substr(
-          viewBalance.toString().length));
+        var balanceRemain = balance%100000000;
 
         res.render('address', {
           active: 'address',
