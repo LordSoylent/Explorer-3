@@ -5,7 +5,7 @@ An open source block explorer written in node.js.
 
 ### See it in action
 
-*  [Sphere](http://sphere.iquidus.io)
+*  [Help the Homeless](http://hth.world/)
 
 *note: If you would like your instance mentioned here contact me*
 
