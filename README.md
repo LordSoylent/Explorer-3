@@ -6,6 +6,7 @@ An open source block explorer written in node.js.
 ### See it in action
 
 *  [Help the Homeless](http://hth.world/)
+*  [Sovereign](http://explorer.sovcore.org/)
 
 *note: If you would like your instance mentioned here contact me*
 
