@@ -1,4 +1,4 @@
-Iquidus Explorer - 1.6.1
+(C)Iquidus Explorer
 ================
 
 An open source block explorer written in node.js.
@@ -6,7 +6,7 @@ An open source block explorer written in node.js.
 ### See it in action
 
 *  [Help the Homeless](https://explorer.hth.world/)
-*  [Sovereign](http://explorer.sovcore.org/)
+*  [Sovereign](https://explorer.sovcore.org/)
 
 *note: If you would like your instance mentioned here contact me*
 
@@ -105,6 +105,7 @@ Iquidus Explorer is intended to be generic so it can be used with any wallet fol
     BTC: 1AWYXN8dib9Q1LmJKBXWh4VQi5xf6o15zK
     HTH: HQspVfviRbLm28eU2itiQXyttad7nWFnvw 
     XBI: BLBfBPwY4ztY4GCmRS2cNWvqkc9djeSvjN
+    SOV: SXqyhnLBY8QqxGbKBca4GYwaK6Xe4uiyXS
 
 ### Known Issues
 
