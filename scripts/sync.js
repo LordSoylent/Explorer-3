@@ -245,7 +245,7 @@ is_locked(function (exists) {
 
             // db.update_coinmarketcap_db(settings.coinmarketcap.ticker, function (err) {
 			db.update_coingecko_db(settings.coinmarketcap.ticker, function (err) {
-              if (err === true) {
+              if (err !== null) {
                 console.log('ERROR: %s: %s', settings.coinmarketcap.ticker, err);
               }
               else {
